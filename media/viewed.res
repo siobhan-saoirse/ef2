@@ -6,7 +6,7 @@
 	}
 	"cp_dustbowl"
 	{
-		"viewed"		"2"
+		"viewed"		"6"
 	}
 	"cp_gravelpit"
 	{
@@ -21,6 +21,10 @@
 		"viewed"		"1"
 	}
 	"cp_granary"
+	{
+		"viewed"		"1"
+	}
+	"tc_hydro"
 	{
 		"viewed"		"1"
 	}
