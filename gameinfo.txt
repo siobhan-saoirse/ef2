@@ -2,7 +2,7 @@
 {
 	game	"Early Fortress"
 	gamelogo 1
-	type multiplayer_only
+	type multiplayer_only 
 	nomodels 1
 	nohimodel 1
 	nocrosshair 0

@@ -365,12 +365,6 @@
 		"achievement"	"short"		// achievement ID
 	}
 	
-	"nav_blocked"
-	{
-		"area"		"long"
-		"blocked"	"bool"
-	}
-	
 	"spec_target_updated"
 	{
 	}
