@@ -18734,9 +18734,9 @@
 
 	"rndwave"
 	{
-		"wave"			"vo/spy_LaughShort02.mp3"
-		"wave"			"vo/spy_LaughShort03.mp3"
-		"wave"			"vo/spy_LaughShort05.mp3"
+		"wave"			"vo/spy_LaughShort02.wav"
+		"wave"			"vo/spy_LaughShort03.wav"
+		"wave"			"vo/spy_LaughShort05.wav"
 	}
 }
 
@@ -18750,14 +18750,14 @@
 
 	"rndwave"
 	{
-		"wave"		"vo/spy_cloakedspy03.mp3"
-		"wave"		"vo/spy_cloakedspy04.mp3"
-		"wave"		"vo/spy_Revenge01.mp3"
-		"wave"		"vo/spy_Revenge02.mp3"
-		"wave"		"vo/spy_Revenge03.mp3"
-		"wave"		"vo/spy_SpecialCompleted04.mp3"
-		"wave"		"vo/spy_SpecialCompleted10.mp3"
-		"wave"		"vo/spy_SpecialCompleted12.mp3"		
+		"wave"		"vo/spy_cloakedspy03.wav"
+		"wave"		"vo/spy_cloakedspy04.wav"
+		"wave"		"vo/spy_Revenge01.wav"
+		"wave"		"vo/spy_Revenge02.wav"
+		"wave"		"vo/spy_Revenge03.wav"
+		"wave"		"vo/spy_SpecialCompleted04.wav"
+		"wave"		"vo/spy_SpecialCompleted10.wav"
+		"wave"		"vo/spy_SpecialCompleted12.wav"		
 	}
 }
 
