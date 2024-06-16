@@ -2,7 +2,7 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"6"
+		"viewed"		"7"
 	}
 	"cp_dustbowl"
 	{
