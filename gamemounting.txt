@@ -22,5 +22,21 @@
 			"dedicated"		"tf/tf2_sound_misc_dir.vpk"
 			"dedicated"		"tf/tf2_misc_dir.vpk"
 		}
-	}
+	}	
+	"Portal"
+	{
+		"appid"		"400"
+		"required"	"0"
+		
+		"paths"
+		{                                                
+			"local"                 "portal/portal_sound_vo_english_dir.vpk"
+			"local"			"portal/portal_pak_dir.vpk"
+			"local"			"portal"
+			
+			"dedicated"             "portal/portal_sound_vo_english_dir.vpk"
+			"dedicated"		"portal/portal_pak_dir.vpk"
+			"dedicated"		"portal"		
+		}
+	}	
 }

@@ -2,11 +2,11 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"10"
+		"viewed"		"12"
 	}
 	"cp_dustbowl"
 	{
-		"viewed"		"6"
+		"viewed"		"10"
 	}
 	"cp_gravelpit"
 	{
@@ -18,7 +18,7 @@
 	}
 	"achievement_engineer_day_fix3"
 	{
-		"viewed"		"4"
+		"viewed"		"8"
 	}
 	"cp_granary"
 	{
