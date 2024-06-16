@@ -14,17 +14,21 @@
 	}
 	"cp_badlands"
 	{
-		"viewed"		"1"
+		"viewed"		"2"
 	}
 	"achievement_engineer_day_fix3"
 	{
-		"viewed"		"3"
+		"viewed"		"4"
 	}
 	"cp_granary"
 	{
 		"viewed"		"1"
 	}
 	"tc_hydro"
+	{
+		"viewed"		"1"
+	}
+	"trade_plaza_bots"
 	{
 		"viewed"		"1"
 	}

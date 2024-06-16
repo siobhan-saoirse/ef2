@@ -7,7 +7,7 @@ objects
 		ClassName			obj_sentrygun
 		StatusName			"#TF_Object_Sentry"
 		BuildTime			10
-		MaxObjects			1
+		MaxObjects			4
 		Cost				130
 		CostMultiplier		1
 		UpgradeCost			0
