@@ -18,7 +18,7 @@
 	}
 	"achievement_engineer_day_fix3"
 	{
-		"viewed"		"1"
+		"viewed"		"3"
 	}
 	"cp_granary"
 	{
