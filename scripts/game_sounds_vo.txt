@@ -18724,3 +18724,208 @@
 	"wave"			"vo/spy_Yes03.wav"
 }
 
+"Spy.Chuckle"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_150dB"
+
+	"rndwave"
+	{
+		"wave"			"vo/spy_LaughShort02.mp3"
+		"wave"			"vo/spy_LaughShort03.mp3"
+		"wave"			"vo/spy_LaughShort05.mp3"
+	}
+}
+
+"Spy.TeaseVictim"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_95dB"
+
+	"rndwave"
+	{
+		"wave"		"vo/spy_cloakedspy03.mp3"
+		"wave"		"vo/spy_cloakedspy04.mp3"
+		"wave"		"vo/spy_Revenge01.mp3"
+		"wave"		"vo/spy_Revenge02.mp3"
+		"wave"		"vo/spy_Revenge03.mp3"
+		"wave"		"vo/spy_SpecialCompleted04.mp3"
+		"wave"		"vo/spy_SpecialCompleted10.mp3"
+		"wave"		"vo/spy_SpecialCompleted12.mp3"		
+	}
+}
+
+"Spy.MVM_Chuckle"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_150dB"
+
+	"rndwave"
+	{
+		"wave"			"vo/mvm/norm/spy_mvm_LaughShort02.mp3"
+		"wave"			"vo/mvm/norm/spy_mvm_LaughShort03.mp3"
+		"wave"			"vo/mvm/norm/spy_mvm_LaughShort05.mp3"
+	}
+}
+
+"Spy.MVM_TeaseVictim"
+{
+	"channel"		"CHAN_VOICE"
+	"volume"		"1"
+	"pitch"			"PITCH_NORM"
+
+	"soundlevel"	"SNDLVL_95dB"
+
+	"rndwave"
+	{
+		"wave"		"vo/mvm/norm/spy_mvm_cloakedspy03.mp3"
+		"wave"		"vo/mvm/norm/spy_mvm_cloakedspy04.mp3"
+		"wave"		"vo/mvm/norm/spy_mvm_Revenge01.mp3"
+		"wave"		"vo/mvm/norm/spy_mvm_Revenge02.mp3"
+		"wave"		"vo/mvm/norm/spy_mvm_Revenge03.mp3"
+		"wave"		"vo/mvm/norm/spy_mvm_specialcomplete04.mp3"
+		"wave"		"vo/mvm/norm/spy_mvm_specialcomplete10.mp3"
+		"wave"		"vo/mvm/norm/spy_mvm_specialcomplete12.mp3"		
+	}
+}
+
+"Heavy.MVM_MobJabber"
+{
+	"channel"  "CHAN_VOICE"
+	"volume"  "1"
+	"pitch"  "PITCH_NORM"
+	"soundlevel"  "SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"  "vo/mvm/norm/heavy_mvm_laughevil01.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_laughevil02.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_laughevil03.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_laughevil04.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare01.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare02.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare03.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare04.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare05.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare06.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare07.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare08.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare09.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare10.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare11.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare12.mp3"
+		"wave"  "vo/mvm/norm/heavy_mvm_meleedare13.mp3"
+	}
+}
+
+"Scout.MVM_WanderJabber"
+{
+	"channel"  "CHAN_VOICE"
+	"volume"  "1"
+	"pitch"  "PITCH_NORM"
+	"soundlevel"  "SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"  "vo/mvm/norm/scout_mvm_generic01.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_meleedare01.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_meleedare02.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_meleedare03.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_misc02.mp3"					// if you order now...
+		"wave"  "vo/mvm/norm/scout_mvm_misc09.mp3"					// wassamattah, you frikin' stupid?
+		"wave"  "vo/mvm/norm/scout_mvm_negativevocalization03.mp3"	// stupid, stupid, stupid!
+		"wave"  "vo/mvm/norm/scout_mvm_positivevocalization02.mp3"	// awright!
+		"wave"  "vo/mvm/norm/scout_mvm_specialcompleted04.mp3"		// yo, batter up!
+		"wave"  "vo/mvm/norm/scout_mvm_invinciblenotready01.mp3"		// c'mon, c'mon!
+	}
+}
+
+"Scout.MVM_MobJabber"
+{
+	"channel"  "CHAN_VOICE"
+	"volume"  "1"
+	"pitch"  "PITCH_NORM"
+	"soundlevel"  "SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"  "vo/mvm/norm/scout_mvm_meleedare04.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_meleedare05.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_meleedare06.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_misc03.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_misc05.mp3"
+		"wave"  "vo/mvm/norm/scout_mvm_misc08.mp3"
+	}
+}
+"Heavy.MobJabber"
+{
+	"channel"  "CHAN_VOICE"
+	"volume"  "1"
+	"pitch"  "PITCH_NORM"
+	"soundlevel"  "SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"  "vo/heavy_laughevil01.mp3"
+		"wave"  "vo/heavy_laughevil02.mp3"
+		"wave"  "vo/heavy_laughevil03.mp3"
+		"wave"  "vo/heavy_laughevil04.mp3"
+		"wave"  "vo/heavy_meleedare01.mp3"
+		"wave"  "vo/heavy_meleedare02.mp3"
+		"wave"  "vo/heavy_meleedare03.mp3"
+		"wave"  "vo/heavy_meleedare04.mp3"
+		"wave"  "vo/heavy_meleedare05.mp3"
+		"wave"  "vo/heavy_meleedare06.mp3"
+		"wave"  "vo/heavy_meleedare07.mp3"
+		"wave"  "vo/heavy_meleedare08.mp3"
+		"wave"  "vo/heavy_meleedare09.mp3"
+		"wave"  "vo/heavy_meleedare10.mp3"
+		"wave"  "vo/heavy_meleedare11.mp3"
+		"wave"  "vo/heavy_meleedare12.mp3"
+		"wave"  "vo/heavy_meleedare13.mp3"
+	}
+}
+
+"Scout.WanderJabber"
+{
+	"channel"  "CHAN_VOICE"
+	"volume"  "1"
+	"pitch"  "PITCH_NORM"
+	"soundlevel"  "SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"  "vo/scout_generic01.mp3"
+		"wave"  "vo/scout_meleedare01.mp3"
+		"wave"  "vo/scout_meleedare02.mp3"
+		"wave"  "vo/scout_meleedare03.mp3"
+		"wave"  "vo/scout_misc02.mp3"					// if you order now...
+		"wave"  "vo/scout_misc09.mp3"					// wassamattah, you frikin' stupid?
+		"wave"  "vo/scout_negativevocalization03.mp3"	// stupid, stupid, stupid!
+		"wave"  "vo/scout_positivevocalization02.mp3"	// awright!
+		"wave"  "vo/scout_specialcompleted04.mp3"		// yo, batter up!
+		"wave"  "vo/scout_invinciblenotready01.mp3"		// c'mon, c'mon!
+	}
+}
+
+"Scout.MobJabber"
+{
+	"channel"  "CHAN_VOICE"
+	"volume"  "1"
+	"pitch"  "PITCH_NORM"
+	"soundlevel"  "SNDLVL_95dB"
+	"rndwave"
+	{
+		"wave"  "vo/scout_meleedare04.mp3"
+		"wave"  "vo/scout_meleedare05.mp3"
+		"wave"  "vo/scout_meleedare06.mp3"
+		"wave"  "vo/scout_misc03.mp3"
+		"wave"  "vo/scout_misc05.mp3"
+		"wave"  "vo/scout_misc08.mp3"
+	}
+}
+
