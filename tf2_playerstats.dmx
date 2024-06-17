@@ -1,15 +1,15 @@
 <!-- dmx encoding keyvalues2 1 format dmx 1 -->
 "PlayerStats"
 {
-	"id" "elementid" "6beee995-ff93-4715-8524-c5e26a2e3c68"
+	"id" "elementid" "e9deaee1-3948-4dd9-b76d-2219470ea49e"
 	"aClassStats" "element_array" 
 	[
 		"ClassStats_t"
 		{
-			"id" "elementid" "8b05feed-4c6d-4106-b528-5acb9dd4b452"
+			"id" "elementid" "869a6fe5-ad41-4763-86d1-fcdc668177c3"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "627eb36e-a6df-4a99-ae93-5b1e08e5108b"
+				"id" "elementid" "073c15da-c8be-4c78-967e-c2c309733da0"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -38,7 +38,7 @@
 			"iPlayerClass" "int" "6"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "13677df7-749f-46d0-a54f-3bb4ecfe78e5"
+				"id" "elementid" "bc9313f2-4fb5-4856-8a1e-159248f3dea2"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "1"
@@ -65,10 +65,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "788385af-ce11-4e13-876d-644ca57f8103"
+			"id" "elementid" "abe10c8e-84ca-4d82-8594-85afbd4c060a"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "81d095cb-c28e-4447-96f8-19dc735d3fe2"
+				"id" "elementid" "fd00d74e-7a97-43f7-a2a6-003652689687"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -84,7 +84,7 @@
 				"iNumShotsFired" "int" "0"
 				"iNumShotsHit" "int" "0"
 				"iNumTeleports" "int" "0"
-				"iPlayTime" "int" "146"
+				"iPlayTime" "int" "271"
 				"iPointCaptures" "int" "0"
 				"iPointDefenses" "int" "0"
 				"iPointsScored" "int" "1"
@@ -93,11 +93,11 @@
 			}
 			
 			"comment: classname" "string" "Scout"
-			"iNumberOfRounds" "int" "7"
+			"iNumberOfRounds" "int" "16"
 			"iPlayerClass" "int" "1"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "5e3032cc-d7c1-4515-bac3-75358a48a8cd"
+				"id" "elementid" "4bbe7670-4cf3-4d86-a375-acc4efb5db22"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -124,10 +124,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "5ad913c8-c131-47f0-9144-d989433ba431"
+			"id" "elementid" "f09155ef-708e-4350-a2c1-04ba651ba8a1"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "f1bbe691-4bc0-4426-8a51-f03970098778"
+				"id" "elementid" "39573ba5-b6f1-446a-aae5-5a441fb11cae"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -156,7 +156,7 @@
 			"iPlayerClass" "int" "2"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "cc180ce2-23ed-439b-a7e3-2d18ec5dd216"
+				"id" "elementid" "35c754fb-4fa3-4c1e-8ed9-2327c566832d"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -183,10 +183,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "745cd365-df15-4a8a-be70-69b26e33df1a"
+			"id" "elementid" "0d3fc576-2e23-4eef-ac56-bf240ac7673c"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "c786696c-f96e-47b6-8d6b-0ca7338b4643"
+				"id" "elementid" "bc062d13-a5fd-41b3-805a-764b1fa0caef"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "1"
@@ -215,7 +215,7 @@
 			"iPlayerClass" "int" "3"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "9537a3ce-a3b7-4fd9-ae19-46ddba878511"
+				"id" "elementid" "1d967698-7e1f-4eca-9388-9d409fa292ea"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "1"
@@ -242,10 +242,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "53fba180-3617-4ee0-9cac-a4c365cf7617"
+			"id" "elementid" "d1822330-b504-44a9-bb73-5756dd87ec73"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "639af0be-4007-4ab4-9469-135024ae9c88"
+				"id" "elementid" "2ad9b9b8-f28f-4a30-9262-2bd7a46ecdd6"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -274,7 +274,7 @@
 			"iPlayerClass" "int" "4"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "628053cd-c8ea-4f11-9c12-1e97276a3a88"
+				"id" "elementid" "0171727f-a082-46d8-9ef1-749b5c24ab3f"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -301,10 +301,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "5adab0fa-e7b6-49df-992c-155d0898b98a"
+			"id" "elementid" "2ace0e93-10d6-4538-835b-657f0c70538b"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "e93b5cd4-b485-4c75-838e-52fc2471f5bb"
+				"id" "elementid" "26c21c64-3d99-4085-9192-6f9fe2e5635f"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -333,7 +333,7 @@
 			"iPlayerClass" "int" "5"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "93338f83-8f79-4145-a279-150c001d82a3"
+				"id" "elementid" "e169a56e-610c-4fc3-b65a-5e0e6dc713a1"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -360,10 +360,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "ffa197f2-5528-460c-b654-e27db4623ae0"
+			"id" "elementid" "0b12c916-9857-47aa-b3e0-6d0a4a118212"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "b0830bca-5d40-4118-9998-1d21e0196fa0"
+				"id" "elementid" "c6715711-aac5-41af-9033-50d499be62ff"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -392,7 +392,7 @@
 			"iPlayerClass" "int" "7"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "7b5d0c85-a304-473b-ad62-1eaa4b3d1146"
+				"id" "elementid" "2380fa5f-394d-40fd-857d-6307c2266935"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -419,10 +419,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "95dce91a-d6fd-4531-89bf-2ee1b315f57b"
+			"id" "elementid" "fef56d7c-0ba4-472b-a24a-e22d2ec13069"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "b47bb748-4612-430a-8256-872a7666f24a"
+				"id" "elementid" "b4b75f92-a344-4a8b-a738-a1bb951dc287"
 				"iBackstabs" "int" "3"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "1"
@@ -451,7 +451,7 @@
 			"iPlayerClass" "int" "8"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "e8b6b8ee-db0a-4647-ba17-abed52c72249"
+				"id" "elementid" "d29b1c98-2242-428b-a796-da956491dcd0"
 				"iBackstabs" "int" "1"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "1"
@@ -478,10 +478,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "7356a049-2af0-4fca-ac2e-53d52b7ce6cf"
+			"id" "elementid" "49aaadf1-d1ae-457d-a425-5d49b9a7c1b6"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "ce97cf9b-4b17-46b3-ad03-39ea3f65496f"
+				"id" "elementid" "42498ded-a460-42eb-8af6-33c00fe232e8"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "12"
 				"iBuildingsDestroyed" "int" "0"
@@ -510,7 +510,7 @@
 			"iPlayerClass" "int" "9"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "20c94db0-1843-4d6e-bd17-46e3d0ffe51e"
+				"id" "elementid" "7f3f4ae2-f161-41bc-a995-1ad7ea54da0c"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "5"
 				"iBuildingsDestroyed" "int" "0"
@@ -537,10 +537,10 @@
 		},
 		"ClassStats_t"
 		{
-			"id" "elementid" "8606aa67-f672-48e8-8503-4305e9a55d9c"
+			"id" "elementid" "a37f4040-a8e6-4357-a0b1-eda2f1703923"
 			"accumulated" "RoundStats_t"
 			{
-				"id" "elementid" "1848e9b0-2100-4035-b06a-a851d2fa3d6b"
+				"id" "elementid" "cfb943e5-a344-4430-ab71-17ebb0f9b3e4"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -569,7 +569,7 @@
 			"iPlayerClass" "int" "10"
 			"max" "RoundStats_t"
 			{
-				"id" "elementid" "7bc4ed46-6cd0-471f-a544-dcbf2bbefbb6"
+				"id" "elementid" "8aca6711-13fc-438c-adf2-f0421776f31d"
 				"iBackstabs" "int" "0"
 				"iBuildingsBuilt" "int" "0"
 				"iBuildingsDestroyed" "int" "0"
@@ -595,7 +595,7 @@
 			
 		}
 	]
-	"iTimestamp" "int" "654839750"
+	"iTimestamp" "int" "2069340823"
 	"iVersion" "int" "0"
 	"SteamID" "int" "0"
 }

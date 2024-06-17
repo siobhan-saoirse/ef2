@@ -2,7 +2,7 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"16"
+		"viewed"		"18"
 	}
 	"cp_dustbowl"
 	{
@@ -45,6 +45,10 @@
 		"viewed"		"1"
 	}
 	"testchmb_a_01"
+	{
+		"viewed"		"5"
+	}
+	"d1_trainstation_02"
 	{
 		"viewed"		"1"
 	}
