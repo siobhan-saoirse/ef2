@@ -14,7 +14,7 @@
 	}
 	"cp_badlands"
 	{
-		"viewed"		"2"
+		"viewed"		"3"
 	}
 	"achievement_engineer_day_fix3"
 	{
@@ -46,10 +46,18 @@
 	}
 	"testchmb_a_01"
 	{
-		"viewed"		"5"
+		"viewed"		"10"
 	}
 	"d1_trainstation_02"
 	{
 		"viewed"		"1"
+	}
+	"testchmb_a_02"
+	{
+		"viewed"		"1"
+	}
+	"escape_00"
+	{
+		"viewed"		"2"
 	}
 }
