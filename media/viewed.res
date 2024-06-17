@@ -2,11 +2,11 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"18"
+		"viewed"		"19"
 	}
 	"cp_dustbowl"
 	{
-		"viewed"		"11"
+		"viewed"		"12"
 	}
 	"cp_gravelpit"
 	{
@@ -26,7 +26,7 @@
 	}
 	"tc_hydro"
 	{
-		"viewed"		"1"
+		"viewed"		"3"
 	}
 	"trade_plaza_bots"
 	{
@@ -58,6 +58,6 @@
 	}
 	"escape_00"
 	{
-		"viewed"		"2"
+		"viewed"		"5"
 	}
 }

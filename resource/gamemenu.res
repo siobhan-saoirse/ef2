@@ -30,8 +30,8 @@
 	}
 	"7"
 	{
-		"label"	"#GameUI_LoadCommentary"
-		"command" "OpenLoadSingleplayerCommentaryDialog"
+		"label"	"Offline Practice"
+		"command" "opennewgamedialog"
 	}
 	"8"
 	{

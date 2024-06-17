@@ -2,11 +2,17 @@
 {
 	1	"background01"
 	2	"background02"
-	3	"background02"
+	3	"background01"
+	4	"background02"
+	5	"background01"
+	6	"background02"
 }
 "BackgroundMaps"
 {
 	1	"background01"
 	2	"background01"
 	3	"background01"
+	4	"background01"
+	5	"background01"
+	6	"background01"
 }
