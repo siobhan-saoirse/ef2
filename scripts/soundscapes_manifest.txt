@@ -45,9 +45,21 @@ soundscapes_manifest
 		"file"		"scripts/soundscapes_hellfire.txt"
 		"file"		"scripts/soundscapes_lair.txt"
 
+	// portal
 
 	"file"		"scripts/soundscapes_portal.txt"
 	"file"		"scripts/soundscapes_testchmb_portal.txt"
-	"file"		"scripts/soundscapes_escape_portal.txt"	
+	"file"		"scripts/soundscapes_escape_portal.txt"		
+	// hl2
+
+	"file"		"scripts/soundscapes_canals.txt"
+	"file"		"scripts/soundscapes_klab.txt"
+	"file"		"scripts/soundscapes_elab.txt"
+	"file"		"scripts/soundscapes_streetwar.txt"
+	"file"		"scripts/soundscapes_citadel.txt"
+	"file"		"scripts/soundscapes_town.txt"
+	"file"		"scripts/soundscapes_coast.txt"
+	"file"		"scripts/soundscapes_prison.txt"
+	"file"		"scripts/soundscapes_trainyard.txt"
 
 }

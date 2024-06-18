@@ -2,7 +2,7 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"19"
+		"viewed"		"20"
 	}
 	"cp_dustbowl"
 	{
@@ -18,7 +18,7 @@
 	}
 	"achievement_engineer_day_fix3"
 	{
-		"viewed"		"14"
+		"viewed"		"17"
 	}
 	"cp_granary"
 	{
@@ -26,7 +26,7 @@
 	}
 	"tc_hydro"
 	{
-		"viewed"		"3"
+		"viewed"		"4"
 	}
 	"trade_plaza_bots"
 	{
@@ -46,18 +46,38 @@
 	}
 	"testchmb_a_01"
 	{
-		"viewed"		"10"
+		"viewed"		"11"
 	}
 	"d1_trainstation_02"
 	{
-		"viewed"		"1"
+		"viewed"		"5"
 	}
 	"testchmb_a_02"
 	{
-		"viewed"		"1"
+		"viewed"		"3"
 	}
 	"escape_00"
 	{
-		"viewed"		"5"
+		"viewed"		"6"
+	}
+	"testchmb_a_03"
+	{
+		"viewed"		"1"
+	}
+	"d1_trainstation_03"
+	{
+		"viewed"		"3"
+	}
+	"ef2_devtest_v8"
+	{
+		"viewed"		"1"
+	}
+	"testchmb_a_15"
+	{
+		"viewed"		"1"
+	}
+	"d1_trainstation_04"
+	{
+		"viewed"		"1"
 	}
 }
