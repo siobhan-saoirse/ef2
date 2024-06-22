@@ -14,7 +14,7 @@
 	}
 	"cp_badlands"
 	{
-		"viewed"		"4"
+		"viewed"		"5"
 	}
 	"achievement_engineer_day_fix3"
 	{
@@ -86,6 +86,6 @@
 	}
 	"cp_well"
 	{
-		"viewed"		"2"
+		"viewed"		"3"
 	}
 }
