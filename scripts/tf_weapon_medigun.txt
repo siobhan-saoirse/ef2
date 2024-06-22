@@ -46,7 +46,7 @@ WeaponData
 	{
 		"weapon"
 		{
-				"file"		"sprites/bucket_medigun_red"
+				"file"		"backpack/weapons/c_models/c_proto_medigun/c_proto_medigun"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"
@@ -54,7 +54,7 @@ WeaponData
 		}
 		"weapon_s"
 		{	
-				"file"		"sprites/bucket_medigun_blue"
+				"file"		"backpack/weapons/c_models/c_proto_medigun/c_proto_medigun"
 				"x"		"0"
 				"y"		"0"
 				"width"		"200"

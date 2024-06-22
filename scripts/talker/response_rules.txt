@@ -393,7 +393,7 @@ criterion "WeaponIsBottle" "playerweapon" "tf_weapon_bottle" "required"
 criterion "WeaponIsSpyPDA" "playerweapon" "tf_weapon_pda_spy" "required"
 criterion "WeaponIsRocket" "playerweapon" "tf_weapon_rocketlauncher" "required"
 criterion "WeaponIsShovel" "playerweapon" "tf_weapon_shovel" "required"
-criterion "WeaponIsFlaregun" "playerweapon" "tf_weapon_flaregun" "required"
+criterion "WeaponIsFlaregun" "playerweapon" "tf_weapon_flaregun_revenge" "required"
 // Lunchbox modified to fire for Sandvich only, so we don't share lines.
 criterion "WeaponIsSandvich" "item_name" "The Sandvich" "required" weight 5
 criterion "WeaponIsRobotSandvich" "item_name" "The Robo-Sandvich" "required" weight 5
@@ -489,7 +489,7 @@ criterion "WeaponIsManmelter" "item_name" "The Manmelter" "required" weight 10
 criterion "WeaponIsWrapAssassin" "item_name" "The Wrap Assassin" "required" weight 10
 criterion "WeaponIsSpycicle" "item_name" "The Spy-cicle" "required" weight 10
 criterion "WeaponIsRainblower" "item_name" "The Rainblower" "required" weight 10
-criterion "WeaponIsScorchShot" "item_name" "The Scorch Shot" "required" weight 10
+criterion "WeaponIsScorchShot" "playerweapon" "tf_weapon_flaregun" "required" weight 10
 criterion "WeaponIsLollichop" "item_name" "The Lollichop" "required" weight 10
 criterion "WeaponIsPEPBrawlerBlaster" "playerweapon" "tf_weapon_pep_brawler_blaster" "required" weight 10
 criterion "WeaponIsHandgunScoutSecondary" "playerweapon" "tf_weapon_handgun_scout_secondary" "required" weight 10
