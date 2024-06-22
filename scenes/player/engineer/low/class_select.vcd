@@ -1,14 +1,20 @@
 // Choreo version 1
 event loop "loopable_idle"
 {
-  time 3.740000 -1.000000
-  param "3.450000"
+  time 6.660000 -1.000000
+  param "5.000000"
   loopcount "-1"
 }
 actor "engineer"
 {
   channel "body"
   {
+    event sequence "SelectionMenu_Anim01"
+    {
+      time 0.000000 6.666667
+      param "SelectionMenu_Anim01"
+      fixedlength
+    }
   }
   channel "sequence"
   {
@@ -17,15 +23,9 @@ actor "engineer"
       time 3.529412 3.529412
       param "SelectionMenu_Idle"
     }
-    event sequence "selection_anim01"
+    event sequence "SelectionMenu_Idle"
     {
-      time 0.000000 5.000000
-      param "SelectionMenu_Anim01"
-      fixedlength
-    }
-    event sequence "loopable_idle"
-    {
-      time 3.319624 3.819624
+      time 4.899123 6.660000
       param "SelectionMenu_Idle"
     }
   }

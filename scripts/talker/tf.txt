@@ -259,7 +259,7 @@
 	}
 	response "MedicTauntSecondary"
 	{
-		scene "scenes/player/medic/low/taunt02_v1.vcd"
+		scene "scenes/player/medic/low/taunt09.vcd"
 	}
 	response "MedicTauntMelee"
 	{

@@ -1,8 +1,8 @@
 // Choreo version 1
 event loop "end_cycle"
 {
-  time 7.333000 -1.000000
-  param "4.166000"
+  time 7.293000 -1.000000
+  param "4.290000"
   loopcount "-1"
 }
 actor "soldier"
@@ -12,11 +12,21 @@ actor "soldier"
   }
   channel "sequence"
   {
-    event sequence "selection_menu_anim"
+    event sequence "selectionMenu_Anim0l"
     {
-      time 0.000000 7.333333
-      param "selectionMenu_all"
+      time 0.000000 4.266667
+      param "selectionMenu_Anim0l"
       fixedlength
+    }
+    event sequence "selectionMenu_Idle"
+    {
+      time 426.000000 429.066681
+      param "selectionMenu_Idle"
+    }
+    event sequence "selectionMenu_Idle"
+    {
+      time 4.271111 7.337778
+      param "selectionMenu_Idle"
     }
   }
   channel "facial"
@@ -55,7 +65,7 @@ actor "soldier"
 
 scalesettings
 {
-  "CChoreoView" "100"
+  "CChoreoView" "120"
   "RampTool" "24"
   "ExpressionTool" "74"
   "GestureTool" "100"

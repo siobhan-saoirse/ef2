@@ -2,11 +2,11 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"20"
+		"viewed"		"23"
 	}
 	"cp_dustbowl"
 	{
-		"viewed"		"12"
+		"viewed"		"15"
 	}
 	"cp_gravelpit"
 	{
@@ -14,11 +14,11 @@
 	}
 	"cp_badlands"
 	{
-		"viewed"		"3"
+		"viewed"		"4"
 	}
 	"achievement_engineer_day_fix3"
 	{
-		"viewed"		"17"
+		"viewed"		"19"
 	}
 	"cp_granary"
 	{
@@ -26,7 +26,7 @@
 	}
 	"tc_hydro"
 	{
-		"viewed"		"4"
+		"viewed"		"6"
 	}
 	"trade_plaza_bots"
 	{
@@ -79,5 +79,13 @@
 	"d1_trainstation_04"
 	{
 		"viewed"		"1"
+	}
+	"cp_powerhouse"
+	{
+		"viewed"		"2"
+	}
+	"cp_well"
+	{
+		"viewed"		"2"
 	}
 }

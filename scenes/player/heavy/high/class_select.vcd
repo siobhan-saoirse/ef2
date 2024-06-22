@@ -1,56 +1,73 @@
 // Choreo version 1
-event loop "loop4eva"
+event loop "end_cycle"
 {
-  time 5.000000 -1.000000
-  param "4.500000"
+  time 4.140000 -1.000000
+  param "2.380000"
   loopcount "-1"
 }
-actor "heavy"
+actor "soldier"
 {
-  channel "audio"
+  channel "body"
   {
     event sequence "selectionMenu_Anim01"
     {
-      time 0.000000 3.966667
+      time 0.000000 2.366667
       param "selectionMenu_Anim01"
       fixedlength
     }
     event sequence "selectionMenu_Idle"
     {
-      time 3.952381 5.222222
+      time 2.370000 4.170000
       param "selectionMenu_Idle"
     }
   }
-  channel "emotion"
+  channel "sequence"
+  {
+    event sequence "selectionMenu_Idle"
+    {
+      time 426.000000 429.066681
+      param "selectionMenu_Idle"
+    }
+    event expression "actionfire02"
+    {
+      time 0.413793 1.413793
+      param "player\heavy\emotion\emotion"
+      param2 "actionfire02"
+      event_ramp
+      {
+        0.2833 0.2239 "curve_easein_to_curve_easeout"
+        0.6500 0.1828 "curve_easeout_to_curve_easeout"
+      }
+    }
+  }
+  channel "facial"
   {
     event expression "mad"
     {
-      time 0.008333 1.616667
-      param "player\heavy\emotion\emotion"
+      time 0.413617 4.156329
+      param "player\soldier\emotion\emotion"
       param2 "mad"
       event_ramp
       {
-        0.2107 0.2000
-        0.5107 0.5571 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
-        0.9179 0.8057 "curve_easein_to_curve_easeout"
-        1.4321 0.6057
+        0.1696 0.5341 "curve_linear_interp_to_curve_linear_interp"
+        3.7427 0.5336 "curve_linear_interp_to_curve_linear_interp"
       }
+    }
+    event expression "defaultFace"
+    {
+      time 0.000000 1.074713
+      param "player\scout\emotion\emotion"
+      param2 "defaultFace"
     }
     event expression "happysmall02"
     {
-      time 1.304167 5.216667
+      time 1.620690 4.166667
       param "player\heavy\emotion\emotion"
       param2 "happysmall02"
       event_ramp
       {
-        0.1500 0.1200
-        0.4107 0.4886 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
-        0.7964 0.5629
-        1.0893 0.7057
-        1.4536 0.7143 "curve_catmullrom_normalize_x_to_curve_catmullrom_normalize_x"
-        2.0714 0.5514 "curve_easein_to_curve_easeout"
-        3.2714 0.5829 "curve_easein_to_curve_easeout"
-        3.7429 0.5829 "curve_easein_to_curve_easeout"
+        0.4833 0.7425 "curve_easein_to_curve_easein"
+        2.5460 0.7425 "curve_linear_interp_to_curve_linear_interp"
       }
     }
   }
@@ -58,11 +75,11 @@ actor "heavy"
 
 scalesettings
 {
-  "SceneRampTool" "100"
+  "CChoreoView" "284"
+  "RampTool" "24"
+  "ExpressionTool" "74"
   "GestureTool" "100"
-  "RampTool" "56"
-  "ExpressionTool" "100"
-  "CChoreoView" "160"
+  "SceneRampTool" "100"
 }
 fps 60
 snap off
