@@ -2,11 +2,11 @@
 {
 	"ctf_2fort"
 	{
-		"viewed"		"23"
+		"viewed"		"25"
 	}
 	"cp_dustbowl"
 	{
-		"viewed"		"15"
+		"viewed"		"16"
 	}
 	"cp_gravelpit"
 	{
